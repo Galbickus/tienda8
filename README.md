@@ -1,6 +1,8 @@
 
 <h1 align="center">  Python-TalentoTech </h1> 
- 
+
+ ![TalentoTech](https://github.com/user-attachments/assets/602d2e96-e97b-4d1d-93fe-d86c061a6325)
+
 ![PF1 - P1](https://github.com/user-attachments/assets/b1e0d8a1-c143-415c-b882-303f81579d10)
 
 # Gestión de Productos - Sistema de Inventario
