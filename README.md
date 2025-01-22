@@ -1,6 +1,9 @@
 
 <h1 align="center">  Python-TalentoTech </h1> 
 
+![img certi python](https://github.com/user-attachments/assets/a4e27745-c9a8-47de-a1d1-d2ec0cafd078)
+
+
  ![TalentoTech](https://github.com/user-attachments/assets/602d2e96-e97b-4d1d-93fe-d86c061a6325)
 
 ![PF1 - P1](https://github.com/user-attachments/assets/b1e0d8a1-c143-415c-b882-303f81579d10)
